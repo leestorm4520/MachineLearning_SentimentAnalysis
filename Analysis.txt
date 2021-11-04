@@ -1,0 +1,16 @@
+Twitter Sentiment Analysis
+
+1/Text Processing
+    a/Cleaning of Raw Text
+        Lowering case
+        Removal of mentions
+        Removal of special characters
+        Removal of stopwords
+        Removal of hyperlinks
+        Removal of numbers
+        Removal of whitespaces
+    b/Tokenization
+    c/Stemming
+2/Word Embedding Techniques
+    Bag of Words
+    Term 
