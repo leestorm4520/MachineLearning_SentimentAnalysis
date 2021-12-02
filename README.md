@@ -3,7 +3,9 @@
 
 Our project briefly explores achieving the task of sentiment analysis / sentiment classification, utilizing several machine learning techniques.
 
+### Github Repository Link: [Sentiment Analysis using Machine Learning (Github Repository)](https://github.com/leestorm4520/MachineLearning_SentimentAnalysis.git)
 
+#
 ## Findings
 
 Both supervised and unserpervised methods can be used to achieve sentiment analysis with moderate success rates. 
@@ -13,6 +15,8 @@ Both supervised and unserpervised methods can be used to achieve sentiment analy
 - The number one difficulty in sentiment analysis is discovering and preparing a dataset to train on.
 - Supervised sentiment analysis suffers from oversimplification in data sets. We found inconsistencies in text samples containing sarcasm for example.
 - Unsupervised sentiment analysis suffers from inability to interpret results. The word clusters seperated nicely, but what were supposed to be positive, negative, and neutral clusters, were more like positive, negative, and Spanish clusters.
+
+#
 ## Authors 
 
 | Name          | Email                                                     |
@@ -21,7 +25,7 @@ Both supervised and unserpervised methods can be used to achieve sentiment analy
 | John Le       | [john.le@my.utsa.edu](mailto:john.le@my.utsa.edu)         |
 | Jack Xu       | [jack.xu@my.utsa.edu](mailto:jack.xu@my.utsa.edu)         |
 
-
+#
 ## References
 
  - [7. TrackMyHashTag (Twitter Dataset)](https://www.trackmyhashtag.com/blog/free-twitter-datasets/)
